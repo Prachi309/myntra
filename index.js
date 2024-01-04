@@ -8,7 +8,7 @@
 const items = [
     {
         id: '001',
-        item_image: '/images/men/1.webp',
+        item_image: 'images/men/1.webp',
         company_name: 'boohooMAN',
         item_name: 'Floral Print Boxy Shirt',
         current_price: 1724,
@@ -23,7 +23,7 @@ const items = [
     },
     {
         id: '002',
-        item_image: '/images/men/2.webp',
+        item_image: 'images/men/2.webp',
         company_name: 'boohooMAN',
         item_name: 'Cotton Reversible Bucket Hat',
         current_price: 539,
@@ -41,7 +41,7 @@ const items = [
 
     {
         id: '003',
-        item_image: '/images/men/3.webp',
+        item_image: 'images/men/3.webp',
         company_name: 'HIGHLANDER',
         item_name: 'Men Black Tapered Fit Mid-Rise Clean Look Stretchable Jeans',
         current_price: 662,
@@ -57,7 +57,7 @@ const items = [
     },
     {
         id: '004',
-        item_image: '/images/men/4.webp',
+        item_image: 'images/men/4.webp',
         company_name: 'ADIDAS Originals',
         item_name: 'Men Superstar XLG Leather Sneakers',
         current_price: 7199,
@@ -73,7 +73,7 @@ const items = [
     },
     {
         id: '005',
-        item_image: '/images/men/5.webp',
+        item_image: 'images/men/5.webp',
         company_name: 'Polo Ralph Lauren',
         item_name: 'Polo Collar Slim-Fit Cotton T-Shirt',
         current_price: 12600,
@@ -89,7 +89,7 @@ const items = [
     },
     {
         id:'006',
-            item_image:'/images/men/6.webp',
+            item_image:'images/men/6.webp',
             company_name:'Anouk',
             item_name:'Magenta Kurta- Palazzos & Dupatta',
             current_price:4099,
@@ -105,7 +105,7 @@ const items = [
         },
         {
             id:'007',
-                item_image:'/images/men/7.webp',
+                item_image:'images/men/7.webp',
                 company_name:'Mitera',
                 item_name:'Mitera Pure Georgette Saree With Blouse Piece',
                 current_price:809,
@@ -121,7 +121,7 @@ const items = [
             },
             {
             id:'008',
-            item_image:'/images/men/8.webp',
+            item_image:'images/men/8.webp',
             company_name:'KETCH',
             item_name:'Floral Halter Neck A-Line Dress',
             current_price:341,
@@ -137,7 +137,7 @@ const items = [
     
     {
         id:'009',
-        item_image:'/images/men/9.webp',
+        item_image:'images/men/9.webp',
         company_name:'H&M',
         item_name:'Pure Cotton Oversized T-shirt',
         current_price:779,
@@ -153,7 +153,7 @@ const items = [
         
     {
         id:'010',
-        item_image:'/images/men/10.webp',
+        item_image:'images/men/10.webp',
         company_name:'JM Looks',
         item_name:' Pointed Toe Party Block Mules',
         current_price:1197,
