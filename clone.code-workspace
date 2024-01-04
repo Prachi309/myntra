@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/VS CODE FOLDERS/netflix/images"
+		},
+		{
+			"path": "../../../Desktop/VS CODE FOLDERS/netflix/.vscode"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "myntra"
+	}
+}
